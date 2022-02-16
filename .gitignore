@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Skip to content
 Search or jump to…
 Pull requests
@@ -26,6 +27,8 @@ Latest commit 3a95ee8 3 minutes ago
  1 contributor
 104 lines (76 sloc)  1.57 KB
    
+=======
+>>>>>>> 3a95ee831e8f6c5625c58d56650cb90b0e11c134
 # Logs
 logs
 *.log
@@ -130,16 +133,3 @@ dist
 
 # TernJS port file
 .tern-port
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
