@@ -1,6 +1,6 @@
 const config = {
   db: {
-    /* don't expose password or any sensitive info, done only for demo */
+    /* don't expose password or any sensitive info, done only for demo make a change*/
     host: process.env.HOST,
     user: process.env.USERNAME,
     password: process.env.PASSWORD,
